@@ -1,5 +1,9 @@
-Insert a description to describe your update to document your creative process. The Commissioned Interactive Artists will be doing the same so you can reference their Project Posts.
+Hello, 
 
-![Example Image](../project_images/cover.jpg?raw=true "Example Image")
+The outcome of this project will be a picture drawn by footsteps, colored by the daily temperature in your location, and texturized by images from NASA API. 
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+I'm still not sure how the outcome will be. 
+
+<!--![Example Image](../project_images/cover.jpg?raw=true "Example Image")-->
+
+
