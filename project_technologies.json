@@ -4,10 +4,10 @@
             "NASA API", "Google Maps API"
         ],
         "platforms": [
-            "PhoneGap"
+            "Android"
         ],
         "toolkits": [
-            "Middlemanapp"
+            "Middlemanapp", "PhoneGap"
         ]
     },
     "themes": [
